@@ -1,4 +1,4 @@
-// Copyright(c) 2022 Lucas LeBLanc All rights reserved.
+// Copyright(c) 2022 Lucas LeBlanc All rights reserved.
 //
 // Created by : Lucas LeBlanc
 // Created on : Oct 2022
@@ -54,7 +54,7 @@ int main() {
             std::cout << "The " << monthNumber << "th month is December.";
             break;
         default:
-            std::cout << "The number has to be a natural number between 1 and 12.";
+            std::cout << "The number has to be a number between 1 and 12.";
     }
 
     std::cout << "\n\n\nDone.\n";
